@@ -13,4 +13,4 @@ This repository contains data analysis work using **Excel**, **Python**, and **S
 - Use the SQL scripts to query and clean data in your own database.
 
 ## License:
-This project is licensed under the RAJ License.
+This project is licensed under the BR License.
